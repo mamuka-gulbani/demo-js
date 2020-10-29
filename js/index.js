@@ -1,0 +1,1 @@
+alert ('მოგესალმებით Google Store Georgia-ს საიტზე')
